@@ -30,7 +30,7 @@
 //#define FF_INVENTOR_MACHINE
 //#define FF_DREAMER_MACHINE
 //#define FF_DREAMER_NX_MACHINE
-//#define FF_DREMEL_3D20_MACHINE
+#define FF_DREMEL_3D20_MACHINE
 
 /* Select black or silver pulley */
 //#define FF_BLACK_PULLEY
