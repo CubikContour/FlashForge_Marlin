@@ -33,5 +33,4 @@
 - [Installing Marlin on Dremel 3D20 ( Windows )](https://github.com/moonglow/FlashForge_Marlin/wiki/Installing-Marlin-on-Dremel-3D20)
 
 #### Contributors:
-- [Tim Schoenmackers](https://github.com/timmehtimmeh)
-- [tracedgod](https://github.com/tracedgod)
+[Tim Schoenmackers](https://github.com/timmehtimmeh)
